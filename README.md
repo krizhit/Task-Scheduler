@@ -27,16 +27,6 @@ A desktop reminder application built using Python and Tkinter that helps users c
 
 ---
 
-## 📁 File Structure
-
-- `main.py`        → App startup file.  
-- `ui.py`          → Interface layout and control events.  
-- `db_utils.py`    → Database interaction logic.  
-- `notify.py`      → Triggers plyer-based notifications.  
-- `base62.py`      → Encodes task IDs to readable short form.
-
----
-
 ## 🚀 How to Run
 
 1. Install Python 3.12 and Plyer:
