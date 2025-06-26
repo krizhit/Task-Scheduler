@@ -26,13 +26,3 @@ A desktop reminder application built using Python and Tkinter that helps users c
 - Base62 encoding (for ID logic)
 
 ---
-
-## 🚀 How to Run
-
-1. Install Python 3.12 and Plyer:
-   ```bash
-   pip install plyer
-   ```
-2. Open the folder in an IDE like PyCharm.
-3. Run `main.py`.
-4. Fill out task details and let the app notify you on schedule.
