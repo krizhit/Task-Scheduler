@@ -1,4 +1,4 @@
-# Task Scheduler with Notifications — Project Documentation
+# Task Scheduler with Notifications
 
 ## 🗓️ Project Overview
 
